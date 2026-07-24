@@ -1,3 +1,6 @@
+<img width="1828" height="1028" alt="screencapture-mujahid-elshafie-vercel-app-2026-07-24-19_24_55" src="https://github.com/user-attachments/assets/23c041dd-a9a4-4dc1-99ec-c496a3d903d2" />
+
+
 # Hi, I'm Mujahid Elshafie Ahmed 👋
 
 **Senior Software Engineer | SaaS, ERP & CRM Architect**
@@ -5,6 +8,10 @@
 I design and build scalable business software that helps organizations automate operations, improve workflows, and grow efficiently.
 
 With 7+ years of professional experience, I have delivered enterprise-grade software solutions across multiple industries, including CRM, ERP, governance, construction, property management, healthcare, logistics, and on-demand service platforms.
+
+## 🌐 Portfolio
+
+https://mujahid-elshafie.vercel.app
 
 ## 🚀 What I Do
 
@@ -28,6 +35,9 @@ With 7+ years of professional experience, I have delivered enterprise-grade soft
 - CSS
 - JavaScript
 - Livewire
+- Next.js
+- React
+- TypeScript
 
 **Mobile**
 - Flutter
@@ -62,6 +72,9 @@ On-demand service platform connecting customers with home and office technicians
 
 ### Medinile
 An integrated pharmacy management system currently under active development.
+
+### Portfolio
+Personal portfolio built with Next.js & Tailwind CSS.
 
 ## 🌱 Currently Working On
 
