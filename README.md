@@ -97,6 +97,14 @@ I'm currently available for:
 - LinkedIn: https://www.linkedin.com/in/eng-mujahid-elshafie-b420a7182
 - Email: jajashafie@gmail.com
 
+## Open Source
+
+### Filament Dashboard Widgets
+
+Reusable Laravel Filament components.
+
+⭐ github.com/mujahidelshafie/filament-dashboard-widgets
+
 ---
 
 > *"Great software is not just code. It's understanding business problems and building reliable solutions that scale."*
