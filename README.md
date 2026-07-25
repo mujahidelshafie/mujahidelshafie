@@ -103,7 +103,7 @@ I'm currently available for:
 
 Reusable Laravel Filament components.
 
-⭐ github.com/mujahidelshafie/filament-dashboard-widgets
+⭐ github.com/mujahidelshafie/filament-widgets
 
 ---
 
